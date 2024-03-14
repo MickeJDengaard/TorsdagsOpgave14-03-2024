@@ -2,4 +2,4 @@
 TorsdagsOpgave6
 
 Micke Dengaard
-md-405@cphbusiness.dk
+cph-md405@cphbusiness.dk
